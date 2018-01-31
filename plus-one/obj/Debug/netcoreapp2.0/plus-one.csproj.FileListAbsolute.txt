@@ -1,0 +1,10 @@
+e:\demo\leetcode\plus-one\bin\Debug\netcoreapp2.0\plus-one.deps.json
+e:\demo\leetcode\plus-one\bin\Debug\netcoreapp2.0\plus-one.runtimeconfig.json
+e:\demo\leetcode\plus-one\bin\Debug\netcoreapp2.0\plus-one.runtimeconfig.dev.json
+e:\demo\leetcode\plus-one\bin\Debug\netcoreapp2.0\plus-one.dll
+e:\demo\leetcode\plus-one\bin\Debug\netcoreapp2.0\plus-one.pdb
+e:\demo\leetcode\plus-one\obj\Debug\netcoreapp2.0\plus-one.csproj.CoreCompileInputs.cache
+e:\demo\leetcode\plus-one\obj\Debug\netcoreapp2.0\plus-one.AssemblyInfoInputs.cache
+e:\demo\leetcode\plus-one\obj\Debug\netcoreapp2.0\plus-one.AssemblyInfo.cs
+e:\demo\leetcode\plus-one\obj\Debug\netcoreapp2.0\plus-one.dll
+e:\demo\leetcode\plus-one\obj\Debug\netcoreapp2.0\plus-one.pdb

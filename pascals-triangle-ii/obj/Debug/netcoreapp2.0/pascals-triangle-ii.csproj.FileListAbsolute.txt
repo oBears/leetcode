@@ -1,0 +1,10 @@
+e:\demo\leetcode\pascals-triangle-ii\bin\Debug\netcoreapp2.0\pascals-triangle-ii.deps.json
+e:\demo\leetcode\pascals-triangle-ii\bin\Debug\netcoreapp2.0\pascals-triangle-ii.runtimeconfig.json
+e:\demo\leetcode\pascals-triangle-ii\bin\Debug\netcoreapp2.0\pascals-triangle-ii.runtimeconfig.dev.json
+e:\demo\leetcode\pascals-triangle-ii\bin\Debug\netcoreapp2.0\pascals-triangle-ii.dll
+e:\demo\leetcode\pascals-triangle-ii\bin\Debug\netcoreapp2.0\pascals-triangle-ii.pdb
+e:\demo\leetcode\pascals-triangle-ii\obj\Debug\netcoreapp2.0\pascals-triangle-ii.csproj.CoreCompileInputs.cache
+e:\demo\leetcode\pascals-triangle-ii\obj\Debug\netcoreapp2.0\pascals-triangle-ii.AssemblyInfoInputs.cache
+e:\demo\leetcode\pascals-triangle-ii\obj\Debug\netcoreapp2.0\pascals-triangle-ii.AssemblyInfo.cs
+e:\demo\leetcode\pascals-triangle-ii\obj\Debug\netcoreapp2.0\pascals-triangle-ii.dll
+e:\demo\leetcode\pascals-triangle-ii\obj\Debug\netcoreapp2.0\pascals-triangle-ii.pdb

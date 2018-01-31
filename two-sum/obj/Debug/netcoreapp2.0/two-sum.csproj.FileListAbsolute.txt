@@ -1,0 +1,10 @@
+e:\demo\leetcode\two-sum\bin\Debug\netcoreapp2.0\two-sum.deps.json
+e:\demo\leetcode\two-sum\bin\Debug\netcoreapp2.0\two-sum.runtimeconfig.json
+e:\demo\leetcode\two-sum\bin\Debug\netcoreapp2.0\two-sum.runtimeconfig.dev.json
+e:\demo\leetcode\two-sum\bin\Debug\netcoreapp2.0\two-sum.dll
+e:\demo\leetcode\two-sum\bin\Debug\netcoreapp2.0\two-sum.pdb
+e:\demo\leetcode\two-sum\obj\Debug\netcoreapp2.0\two-sum.csproj.CoreCompileInputs.cache
+e:\demo\leetcode\two-sum\obj\Debug\netcoreapp2.0\two-sum.AssemblyInfoInputs.cache
+e:\demo\leetcode\two-sum\obj\Debug\netcoreapp2.0\two-sum.AssemblyInfo.cs
+e:\demo\leetcode\two-sum\obj\Debug\netcoreapp2.0\two-sum.dll
+e:\demo\leetcode\two-sum\obj\Debug\netcoreapp2.0\two-sum.pdb

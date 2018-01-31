@@ -1,0 +1,10 @@
+e:\demo\leetcode\remove-element\bin\Debug\netcoreapp2.0\remove-element.deps.json
+e:\demo\leetcode\remove-element\bin\Debug\netcoreapp2.0\remove-element.runtimeconfig.json
+e:\demo\leetcode\remove-element\bin\Debug\netcoreapp2.0\remove-element.runtimeconfig.dev.json
+e:\demo\leetcode\remove-element\bin\Debug\netcoreapp2.0\remove-element.dll
+e:\demo\leetcode\remove-element\bin\Debug\netcoreapp2.0\remove-element.pdb
+e:\demo\leetcode\remove-element\obj\Debug\netcoreapp2.0\remove-element.csproj.CoreCompileInputs.cache
+e:\demo\leetcode\remove-element\obj\Debug\netcoreapp2.0\remove-element.AssemblyInfoInputs.cache
+e:\demo\leetcode\remove-element\obj\Debug\netcoreapp2.0\remove-element.AssemblyInfo.cs
+e:\demo\leetcode\remove-element\obj\Debug\netcoreapp2.0\remove-element.dll
+e:\demo\leetcode\remove-element\obj\Debug\netcoreapp2.0\remove-element.pdb
